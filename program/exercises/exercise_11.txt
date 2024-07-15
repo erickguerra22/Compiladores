@@ -1,0 +1,5 @@
+function test(a,b){
+    a = b
+}
+
+test(3, 7)
